@@ -1,0 +1,57 @@
+name: gerald.reichel
+description: zero tolerance
+version: 5.9.4.614
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: geraldreichel
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 23:04:04'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 23:04:04'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T23:04:04.465366Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '537883120'
+  createdAt: '2024-11-22T23:04:04.465366Z'
+  type: plibMaven
+projectDependencies:
+  '160':
+    projectUID: 160
+    projectName: mimi.bernier
+    repositoryPath: gitUri=http://gitserver:3000/dev_3T0zwnwv_team_233/dev_3T0zwnwv_project_160.git&subPath=
+    version: mimi.bernier/2.5.246
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 23:04:04'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
